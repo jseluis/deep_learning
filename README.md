@@ -1,5 +1,5 @@
 # deep_learning
  Introduction to Deep Learning and Applications
-**** v1 in need of uploads and fixing issues ***
-**** pdf lacks likelihood math + reference + citations ***
+**** v1 new updates + fixing many issues ***
+**** fix pdf math + reference + citations ***
 ***** under construction ****
